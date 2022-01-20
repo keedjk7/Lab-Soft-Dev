@@ -3,3 +3,13 @@ body {
     background: skyblue;
     text-align: center;
 }
+
+h1 {
+    color: floralwhite;
+}
+
+hr{
+    height: 1px;
+    background-color: darkblue;
+    border: none;
+}
